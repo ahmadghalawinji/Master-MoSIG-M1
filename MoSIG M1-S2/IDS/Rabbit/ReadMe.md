@@ -1,4 +1,4 @@
-This is the chat Application using Rabbitmq.
+#This is the chat Application using Rabbitmq.
 
 To compile :
 javac -cp amqp-client-5.14.2.jar chatApp.java
